@@ -1,0 +1,12 @@
+101
+Sarah Jilk
+10.0
+20.0
+102
+Peggy Thorn
+20.0
+20.0
+103
+Jen Tordo
+15.0
+15.0
